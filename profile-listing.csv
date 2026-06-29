@@ -1,0 +1,249 @@
+Profile,Type,Ranking
+IOT - Community,Asset,1
+IOT - Sub Community,Asset,2
+IOT - Building,Asset,3
+IOT - Floor,Asset,4
+IOT - Space,Asset,5
+IOT - AC Split Unit,Device,6
+IOT - ACB Panel,Device,6
+IOT - ACS Panel,Device,6
+IOT - AOVD,Device,6
+IOT - ATS Panel,Device,6
+IOT - AV POD,Device,6
+IOT - Air Cooled Chiller Common,Device,6
+IOT - Air Curtain,Device,6
+IOT - Air Handling Unit,Device,6
+IOT - Ambient Temperature 2,Device,6
+IOT - Ambient Temperature Sensor,Device,6
+IOT - Aviation Light Control Panel,Device,6
+IOT - BTU Main Meter,Device,6
+IOT - BTU Meter,Device,6
+IOT - BTU Sub Meter,Device,6
+IOT - Black Water Process System,Device,6
+IOT - Booster Pump,Device,6
+IOT - Booster Pump Common,Device,6
+IOT - Brackish Water Tank,Device,6
+IOT - CAV,Device,6
+IOT - CO Monitoring Panel,Device,6
+IOT - CO Sensor 2,Device,6
+IOT - CRAC Unit,Device,6
+IOT - Calorifier Tank,Device,6
+IOT - Capacitor Bank,Device,6
+IOT - Car Park Discharge Pump,Device,6
+IOT - Carbon Filters,Device,6
+IOT - Carbon Monoxide Sensor,Device,6
+IOT - Central Battery System,Device,6
+IOT - Central Monitoring Panel,Device,6
+IOT - Chemical Dosing Unit,Device,6
+IOT - Chemical Treatment,Device,6
+IOT - Chemical Treatment Unit,Device,6
+IOT - Chilled Water Common Header,Device,6
+IOT - Chilled Water Pump,Device,6
+IOT - Chilled Water Station,Device,6
+IOT - Chiller,Device,6
+IOT - Chiller Common,Device,6
+IOT - Chlorine System,Device,6
+IOT - Circulation Pump,Device,6
+IOT - Circulation Pump Common,Device,6
+IOT - Clean Agent System,Device,6
+IOT - Close Control Unit,Device,6
+IOT - Cold Room,Device,6
+IOT - Computer Room Air Conditioning,Device,6
+IOT - Condensate Pump,Device,6
+IOT - Condensate Pump Common,Device,6
+IOT - Condensate Water Tank,Device,6
+IOT - Condensate Water Tank Common,Device,6
+IOT - Condenser Makeup Panel,Device,6
+IOT - Condenser Pump,Device,6
+IOT - Cooling Tower,Device,6
+IOT - Cooling Tower Common,Device,6
+IOT - Copper Ionisation Unit,Device,6
+IOT - DB Meter,Device,6
+IOT - DDC Controller,Device,6
+IOT - DX Unit,Device,6
+IOT - Damper,Device,6
+IOT - Deionization Filteration Unit,Device,6
+IOT - Diesel Tank,Device,6
+IOT - Domestic Water Tank,Device,6
+IOT - Dosing Pump,Device,6
+IOT - Dosing Unit,Device,6
+IOT - ELSP,Device,6
+IOT - EMCC Panel,Device,6
+IOT - EMDB Panel,Device,6
+IOT - ESMDB Panel,Device,6
+IOT - Ecology Unit,Device,6
+IOT - Emergency Cooler,Device,6
+IOT - Emergency Lighting Panel,Device,6
+IOT - Emergency MCC Meter,Device,6
+IOT - Emergency SMDB,Device,6
+IOT - Emergency SMDB Meter,Device,6
+IOT - Emergency SMDB Panel,Device,6
+IOT - Entrance Door,Device,6
+IOT - Escalator,Device,6
+IOT - Exhaust Air Fan,Device,6
+IOT - Exhaust Fan,Device,6
+IOT - Exhaust Fan Common,Device,6
+IOT - Expansion Tank 2,Device,6
+IOT - Extract Fan,Device,6
+IOT - FM 200,Device,6
+IOT - FM200,Device,6
+IOT - FRDP,Device,6
+IOT - Fan Coil Unit,Device,6
+IOT - Feeder Panel,Device,6
+IOT - Filteration Pump,Device,6
+IOT - Fire Alarm Panel,Device,6
+IOT - Fire Alarm System,Device,6
+IOT - Fire Diesel Pump,Device,6
+IOT - Fire Duct Door,Device,6
+IOT - Fire Electrical Pump,Device,6
+IOT - Fire Jockey Pump,Device,6
+IOT - Fire Pump,Device,6
+IOT - Fire Pump Set Common,Device,6
+IOT - Fire Shutter Panel,Device,6
+IOT - Fire Suppression System,Device,6
+IOT - Fire Water Tank,Device,6
+IOT - Fire Water Tank Common,Device,6
+IOT - Flue Gas Sensor,Device,6
+IOT - Foam System,Device,6
+IOT - Fresh Air Fan,Device,6
+IOT - Fresh Air Fan Common,Device,6
+IOT - Fresh Air Handling Unit,Device,6
+IOT - Fuel Oil System,Device,6
+IOT - GMDB Panel,Device,6
+IOT - GRP Water Tank,Device,6
+IOT - Gas Meter,Device,6
+IOT - Gas Monitoring System,Device,6
+IOT - Gas Panel,Device,6
+IOT - Gate Barrier,Device,6
+IOT - Generator,Device,6
+IOT - Generator Meter,Device,6
+IOT - Generator Panel,Device,6
+IOT - Grease Interceptor,Device,6
+IOT - Grease Interceptor Control Panel,Device,6
+IOT - Grease Separator,Device,6
+IOT - Grease Water Pump Common,Device,6
+IOT - Grey Water System,Device,6
+IOT - Grey Water Tank,Device,6
+IOT - Grey Water Tank Common,Device,6
+IOT - Grinder Pump,Device,6
+IOT - Grinder Pump Common,Device,6
+IOT - HMI Panel,Device,6
+IOT - Heat Exchanger,Device,6
+IOT - Heat Exchanger Common,Device,6
+IOT - Heat Pump,Device,6
+IOT - Heat Pump Common,Device,6
+IOT - Heater,Device,6
+IOT - Hybrid Fan Coil Unit,Device,6
+IOT - Ionization Unit,Device,6
+IOT - Irrigation Pump,Device,6
+IOT - Irrigation Pump Common,Device,6
+IOT - Irrigation Tank,Device,6
+IOT - LPG,Device,6
+IOT - LV Panel,Device,6
+IOT - LV Panel Meter,Device,6
+IOT - LV Panel Sub Meter,Device,6
+IOT - Leak Detection Panel,Device,6
+IOT - Lift,Device,6
+IOT - Lift Panel,Device,6
+IOT - Lift Pressure Sensor,Device,6
+IOT - Lift Pressurization Fan,Device,6
+IOT - Lifting Pump,Device,6
+IOT - Lifting Pump Common,Device,6
+IOT - Lighting Control System,Device,6
+IOT - Lighting Control Unit,Device,6
+IOT - MAHU,Device,6
+IOT - MCC Panel,Device,6
+IOT - MCCP Meter,Device,6
+IOT - MDB,Device,6
+IOT - MDB Panel,Device,6
+IOT - MDB Panel Panel,Device,6
+IOT - Makeup Air Handling Unit,Device,6
+IOT - Makeup Fan,Device,6
+IOT - Makeup Pump,Device,6
+IOT - Mixed Air Handling Unit,Device,6
+IOT - Motorized PIR Valve,Device,6
+IOT - Motorized Smoke Fire Damper,Device,6
+IOT - Motorized Volume Control Damper,Device,6
+IOT - Non Port Water Tank,Device,6
+IOT - Non Port Water Tank Common,Device,6
+IOT - Oil Interceptor Control Panel,Device,6
+IOT - PIR Activated Motorized Valve,Device,6
+IOT - PMU,Device,6
+IOT - PMU Meter,Device,6
+IOT - PUMP,Device,6
+IOT - PV Inverter Meter,Device,6
+IOT - PV Inverter Status,Device,6
+IOT - PV Meters,Device,6
+IOT - Package Unit,Device,6
+IOT - Penstock Valve,Device,6
+IOT - Photovoltaic Light Power,Device,6
+IOT - Photovoltaic Light Power Meter,Device,6
+IOT - Photovoltaic System,Device,6
+IOT - Potable Water Tank,Device,6
+IOT - Potable Water Tank Common,Device,6
+IOT - Power Factor Correction Unit,Device,6
+IOT - Pre Action System,Device,6
+IOT - Pressurization Unit,Device,6
+IOT - Primary Pump,Device,6
+IOT - Primary Pump Common,Device,6
+IOT - Primary and Secondary Common,Device,6
+IOT - Public Address System,Device,6
+IOT - Rain Storm Water Pump,Device,6
+IOT - Recirculating Air Handling Unit,Device,6
+IOT - Recirculation Pump,Device,6
+IOT - SHCP Heater,Device,6
+IOT - SMDB,Device,6
+IOT - SMDB Meter,Device,6
+IOT - SMDB Panel,Device,6
+IOT - Sand Filters,Device,6
+IOT - Secondary Pump,Device,6
+IOT - Secondary Pump Common,Device,6
+IOT - Side Stream Filteration Unit,Device,6
+IOT - Smoke Exhaust Fan,Device,6
+IOT - Smoke Extract Fan,Device,6
+IOT - Smoke Extract Fan Common,Device,6
+IOT - Solar Disinfection System,Device,6
+IOT - Solar Disinfection System Tank,Device,6
+IOT - Solar Energy Meter,Device,6
+IOT - Solar Energy Sub Meter,Device,6
+IOT - Solar Panel,Device,6
+IOT - Solar Water Pump,Device,6
+IOT - Space Temperature,Device,6
+IOT - Staircase Pressurization Fan,Device,6
+IOT - Storm Pump,Device,6
+IOT - Storm Pump Common,Device,6
+IOT - Storm Water Pump,Device,6
+IOT - Storm Water Pump Common,Device,6
+IOT - Storm Water Tank,Device,6
+IOT - Sump Pump,Device,6
+IOT - Sump Pump Common,Device,6
+IOT - Sweeper System Pump,Device,6
+IOT - Temperature & Humidity Sensor,Device,6
+IOT - Temperature Sensor,Device,6
+IOT - Test Device,Device,6
+IOT - Test Device 2,Device,6
+IOT - Thermostat,Device,6
+IOT - Traffic Signal Panel,Device,6
+IOT - Transfer Pump,Device,6
+IOT - Transfer Pump Common,Device,6
+IOT - Transformer Room Extract Fan,Device,6
+IOT - Transformer Room Fan,Device,6
+IOT - Treated Water Tank,Device,6
+IOT - UPS,Device,6
+IOT - VAV,Device,6
+IOT - VFD,Device,6
+IOT - VRF,Device,6
+IOT - VRF System,Device,6
+IOT - VRV System,Device,6
+IOT - Vacuum Degasser,Device,6
+IOT - Variable Frequency Drive,Device,6
+IOT - Waste Water Pump,Device,6
+IOT - Water Circulation Pump,Device,6
+IOT - Water Leak Detection System,Device,6
+IOT - Water Meter,Device,6
+IOT - Water Sub Meter,Device,6
+IOT - Water Tank,Device,6
+IOT - Water Tank Temperature,Device,6
+IOT - Water Treatment Plant,Device,6
+IOT - Weather Station,Device,6
+IOT - Wet Control Panel 2,Device,6
