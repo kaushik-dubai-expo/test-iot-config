@@ -13,7 +13,7 @@ IOT - AV POD,Device,6
 IOT - Air Cooled Chiller Common,Device,6
 IOT - Air Curtain,Device,6
 IOT - Air Handling Unit,Device,6
-IOT - Ambient Temperature 2,Device,6
+IOT - Ambient Temperature,Device,6
 IOT - Ambient Temperature Sensor,Device,6
 IOT - Aviation Light Control Panel,Device,6
 IOT - BTU Main Meter,Device,6
@@ -25,7 +25,7 @@ IOT - Booster Pump Common,Device,6
 IOT - Brackish Water Tank,Device,6
 IOT - CAV,Device,6
 IOT - CO Monitoring Panel,Device,6
-IOT - CO Sensor 2,Device,6
+IOT - CO Sensor,Device,6
 IOT - CRAC Unit,Device,6
 IOT - Calorifier Tank,Device,6
 IOT - Capacitor Bank,Device,6
@@ -83,7 +83,7 @@ IOT - Escalator,Device,6
 IOT - Exhaust Air Fan,Device,6
 IOT - Exhaust Fan,Device,6
 IOT - Exhaust Fan Common,Device,6
-IOT - Expansion Tank 2,Device,6
+IOT - Expansion Tank,Device,6
 IOT - Extract Fan,Device,6
 IOT - FM 200,Device,6
 IOT - FM200,Device,6
@@ -121,6 +121,7 @@ IOT - Generator Panel,Device,6
 IOT - Grease Interceptor,Device,6
 IOT - Grease Interceptor Control Panel,Device,6
 IOT - Grease Separator,Device,6
+IOT - Grease Seperator,Device,6
 IOT - Grease Water Pump Common,Device,6
 IOT - Grey Water System,Device,6
 IOT - Grey Water Tank,Device,6
@@ -220,8 +221,6 @@ IOT - Sump Pump Common,Device,6
 IOT - Sweeper System Pump,Device,6
 IOT - Temperature & Humidity Sensor,Device,6
 IOT - Temperature Sensor,Device,6
-IOT - Test Device,Device,6
-IOT - Test Device 2,Device,6
 IOT - Thermostat,Device,6
 IOT - Traffic Signal Panel,Device,6
 IOT - Transfer Pump,Device,6
@@ -246,4 +245,4 @@ IOT - Water Tank,Device,6
 IOT - Water Tank Temperature,Device,6
 IOT - Water Treatment Plant,Device,6
 IOT - Weather Station,Device,6
-IOT - Wet Control Panel 2,Device,6
+IOT - Wet Control Panel,Device,6
