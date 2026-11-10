@@ -128,7 +128,7 @@ Name,Profile,Short Code,Groups (comma seperated)
 3089-B1-007 EMDB SAD,IOT - Space,,"21FM Assets, ECD AM Assets"
 3089-B1-007 LV ROOM SAD,IOT - Space,,"21FM Assets, ECD AM Assets"
 3089-B1-007-5.04-CH-TCPM-001-test,IOT - BTU Meter,CHW Primary Circuit BTU Meter,"21FM Devices, ECD AM Devices"
-3089-B1-007-5.04-CH-TCPM-002,IOT - BTU Meter,CHW Secondary Circuit BTU Meter,"21FM Devices, ECD AM Devices"
+3089-B1-007-5.04-CH-TCPM-002-test,IOT - BTU Meter,CHW Secondary Circuit BTU Meter,"21FM Devices, ECD AM Devices"
 3089-B1-007-5.06-VA-MSFD-001,IOT - Motorized Smoke Fire Damper,Normally Open_3089-B1-007-5_06-VA-MSFD-001 EMDB SAD Open/Close Status,"21FM Devices, ECD AM Devices"
 3089-B1-007-5.06-VA-MSFD-002,IOT - Motorized Smoke Fire Damper,Normally Open_3089-B1-007-5_06-VA-MSFD-002 EMDB RAD Open/Close Status,"21FM Devices, ECD AM Devices"
 3089-B1-007-5.06-VA-MSFD-003,IOT - Motorized Smoke Fire Damper,Normally Open_3089-B1-007-5_06-VA-MSFD-003 EMDB SAD Open/Close Status,"21FM Devices, ECD AM Devices"
