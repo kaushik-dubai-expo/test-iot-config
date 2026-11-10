@@ -6937,7 +6937,7 @@ Name,Profile,Short Code,Groups (comma seperated)
 5406-02-UNIT 221,IOT - Space,,"21FM Assets, ECD AM Assets"
 5406-02-UNIT 222,IOT - Space,,"21FM Assets, ECD AM Assets"
 5406-B1-000,IOT - Space,,"21FM Assets, ECD AM Assets"
-5406-B1-000-5.04-CH-TCPM-020,IOT - BTU Meter,69808182,"21FM Devices, ECD AM Devices"
+5406-B1-000-5.04-CH-TCPM-020-test,IOT - BTU Meter,69808182,"21FM Devices, ECD AM Devices"
 5406-B1-053 COOLING TOWER TSE TREATMENT ROOM,IOT - Space,,"21FM Assets, ECD AM Assets"
 5406-B1-073 DOMESTIC WATER TANK ROOM,IOT - Space,,"21FM Assets, ECD AM Assets"
 5406-B1-167 LOCAL LV SWITCHROOM,IOT - Space,,"21FM Assets, ECD AM Assets"
