@@ -786,7 +786,7 @@ Name,Profile,Short Code,Groups (comma seperated)
 4103-01-010 PETAL C ACT 1 HIGH LEVEL UNDER THE RAMP,IOT - Space,,"ECD AM Assets, 21FM Assets"
 4103-01-010 PETAL C ACT 1 LOW LEVEL UNDER THE RAMP NEAR C1 RISER,IOT - Space,,"ECD AM Assets, 21FM Assets"
 4103-01-010-5.04-CH-WCPM-001-test,IOT - BTU Meter,70142209,"ECD AM Devices, 21FM Devices"
-4103-01-010-5.04-CH-WCPM-002,IOT - BTU Meter,70142211,"ECD AM Devices, 21FM Devices"
+4103-01-010-5.04-CH-WCPM-002-test,IOT - BTU Meter,70142211,"ECD AM Devices, 21FM Devices"
 4103-01-010-5.04-HA-AHUT-001,IOT - Recirculating Air Handling Unit,,"ECD AM Devices, 21FM Devices"
 4103-01-010-5.04-HA-AHUT-002,IOT - Recirculating Air Handling Unit,,"ECD AM Devices, 21FM Devices"
 4103-01-026 EXHIBTION SPACE ACT 3,IOT - Space,,"ECD AM Assets, 21FM Assets"
