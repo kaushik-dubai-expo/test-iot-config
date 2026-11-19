@@ -19256,12 +19256,6 @@ Device ID,BACnet Instance ID,BACnet Description,BACnet Object Name,Common Name
 2213678,binaryInput:20,,KIOSK'3088CR01'MSFD'MSFD01STS,Damper Status
 2213678,binaryInput:21,,KIOSK'3088CR01'MSFD'MSFD02STS,Damper Status
 2213678,binaryInput:22,,KIOSK'3088CR01'MSFD'MSD02STS1,Damper Status
-2152225,binaryInput:248,,TUNNEL'B1028BM02'MSFD'034MDP03,Damper Status
-2152225,binaryInput:249,,TUNNEL'B1028BM02'MSFD'034MDP04,Damper Status
-2152225,binaryInput:250,,TUNNEL'B1028BM02'MSFD'034MDP05,Damper Status
-2152225,binaryInput:241,,TUNNEL'B1028BM02'MSFD'025MDP03,Damper Status
-2152225,binaryInput:229,,TUNNEL'B1028BM02'MSFD'021MSD02,Damper Status
-2151425,binaryInput:368,,TUNNEL'B1029CR01'MSFDMFD'001MSD03,Damper Status
 32412,binaryInput:11,,P523,Common Fire Alarm
 32412,binaryInput:12,,P524,Tunnel Fire Alarm
 32412,binaryInput:13,,P525,Parcel G Fire Alarm
@@ -19269,3 +19263,9 @@ Device ID,BACnet Instance ID,BACnet Description,BACnet Object Name,Common Name
 32412,binaryInput:15,,P527,MEP Room Fire Alarm
 32412,binaryInput:58,,P570,North Control Room Fire Alarm
 32412,binaryInput:59,,P571,South Control Room Fire Alarm
+2152225,binaryInput:248,,TUNNEL'B1028BM02'MSFD'034MDP03,Damper Status
+2152225,binaryInput:249,,TUNNEL'B1028BM02'MSFD'034MDP04,Damper Status
+2152225,binaryInput:250,,TUNNEL'B1028BM02'MSFD'034MDP05,Damper Status
+2152225,binaryInput:241,,TUNNEL'B1028BM02'MSFD'025MDP03,Damper Status
+2152225,binaryInput:229,,TUNNEL'B1028BM02'MSFD'021MSD02,Damper Status
+2151425,binaryInput:368,,TUNNEL'B1029CR01'MSFDMFD'001MSD03,Damper Status
